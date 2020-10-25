@@ -2,7 +2,7 @@
 
 ### Get closer to the people and things you love with Bianki 
 
-Connect with your friends or share your thoughts. 
+*Connect with your friends or share your thoughts. 
 Discover our community where you can express yourself and share events from your everyday moments to the important things in your life.
 Express yourself and connect with friends
 
