@@ -14,4 +14,6 @@
 
 * Get inspiration from photos and videos on new accounts with Explore.
 
+##Video screenshot
+
 ![nw](https://user-images.githubusercontent.com/70061912/93709030-4d7e8180-fb3b-11ea-85f6-955157396eda.gif)
