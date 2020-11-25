@@ -1,8 +1,17 @@
 # Bianki APP
 
-* It contains products that contain more than 50,000 products from shopping categories such as: Fashion, Style, Clothing, Electronics, Fashion and Beauty, Footwear, Kitchen, Health and Food Equipment.
+### Get closer to the people and things you love with Bianki 
 
-## screenshot
+* Connect with your friends or share your thoughts. 
 
-![Screenshot_1606344657](https://user-images.githubusercontent.com/70061912/100290066-14bbb800-2f83-11eb-8fb4-9c85640fdbe3.png)
-![Screenshot_1606344666](https://user-images.githubusercontent.com/70061912/100290069-15ece500-2f83-11eb-96ba-1203a5d3af74.png)
+* Discover our community where you can express yourself and share events from your everyday moments to the important things in your life.
+
+* Pictures and videos of your story that disappear after 24 hours, and make it more fun by using designer tools.
+
+* Send messages to your friends on Direct. The beginnings of a funny talk about what you see in the synopsis and stories.
+
+* Learn more about everything that interests you
+
+* Get inspiration from photos and videos on new accounts with Explore.
+
+![nw](https://user-images.githubusercontent.com/70061912/93709030-4d7e8180-fb3b-11ea-85f6-955157396eda.gif)
