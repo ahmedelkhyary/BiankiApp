@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمه المرور</string>
+    <string name="login">  تسجيل الدخول </string>
+    <string name="or">أو</string>
+    <string name="login_with_faceook">سجل دخول عن طريق فيسبوك</string>
+    <string name="login_with_google">سجل دخول عن طريق جوحل</string>
+    <string name="haven_t_registered_yet_sign_up">ليس لديك حساب؟ اشئ حساب</string>
+
+
+    <string name="sign_up_with_faceook">انشاء حساب عن طريق فيسبوك</string>
+    <string name="sign_up_with_google">انشاء حساب عن طريق جوجل</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="register">التالي</string>
+
+
+    <string name="account_created_successfully">تم انشاء الحساب بنجاح</string>
+    <string name="continueto">متابعه</string>
+
+
+    <string name="add_profile_picture">ضع صورتك الشخصيه</string>
+    <string name="add_your_profile_picture_to_let_people_recognize_you">ضع صورتك الشخصيه ليتمكن
+الناس من التعرف عليك</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+
+
+    <string name="add_your_bio">ضع معلومه عنك</string>
+    <string name="insert_your_bio">.... اكتب هنا</string>
+    <string name="add_your_bio_to_express_yourself">ضع معلومه عنك لتعبر عن نفسك</string>
+
+    <string name="likes">اعجاب</string>
+    <string name="comments">تعليق</string>
+    <string name="share">مشاركه</string>
+
+
+    <string name="home">الرئيسيه</string>
+    <string name="my_account">حسابي</string>
+    <string name="groups">الجروبات</string>
+    <string name="settings">الاعدادات</string>
+    <string name="privacy_policy">سياسه الخصوصيه</string>
+    <string name="teams_of_service">شروط الخدمه</string>
+    <string name="about_us">اعرف عنا</string>
+    <string name="logout">تسجيل الخروج</string>
+
+
+
+    <string name="message">الرسائل</string>
+    <string name="notifaction">الاشعارات</string>
+    <string name="upload">رفـع</string>
+    <string name="group">المجموعات</string>
+    <string name="homemenu">الرئيسيه</string>
+
+
+</resources>

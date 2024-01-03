@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+
+    android:orientation="vertical"
+
+    >
+
+
+
+            <com.github.siyamed.shapeimageview.CircularImageView
+                android:id="@+id/imagestory"
+                android:src="@drawable/background"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:scaleType="fitXY"
+                app:siBorderColor="#FE0045"
+                app:siBorderWidth="2dp"
+                />
+            <TextView
+                android:layout_gravity="center"
+                android:id="@+id/nameofstory"
+                android:layout_margin="10sp"
+                android:textSize="10dp"
+                android:textColor="@color/textofbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>

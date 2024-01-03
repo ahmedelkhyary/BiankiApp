@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/homeicon"
+          />
+
+
+        <item
+            android:title="@string/homemenu"  />
+        <item
+            android:icon="@drawable/message"
+
+            android:title="@string/message" />
+        <item
+            android:icon="@drawable/notifaction"
+
+            android:title="@string/notifaction" />
+        <item
+            android:icon="@drawable/upload"
+
+            android:title="@string/upload" />
+        <item
+            android:icon="@drawable/group"
+
+            android:title="@string/group" />
+    </group>
+
+</menu>

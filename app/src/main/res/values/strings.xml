@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">biankiapp</string>
+    <string name="facebook_app_id">2595392947400836</string>
+    <string name="fb_login_protocol_scheme">fb2595392947400836</string>
+    <string name="read_file">This app needs access to your file storage so that it can read photos.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="bianki">BianKi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="login_with_faceook">Login with Faceook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="haven_t_registered_yet_sign_up">Haven\'t registered yet? SIGN UP</string>
+
+    <string name="sign_up_with_faceook">Sign up with Faceook</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+
+    <string name="account_created_successfully">Account created successfully</string>
+    <string name="continueto">Continue</string>
+
+    <string name="add_profile_picture">Add Profile Picture</string>
+    <string name="add_your_profile_picture_to_let_people_recognize_you">Add your profile picture to let people recognize you</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="add_your_bio">Add your Bio</string>
+    <string name="insert_your_bio">Insert your Bio</string>
+    <string name="add_your_bio_to_express_yourself">Add your bio to express yourself</string>
+
+
+    <string name="likes">Likes</string>
+    <string name="comments">Comments</string>
+    <string name="share">share</string>
+
+
+    <string name="home">HOME</string>
+    <string name="my_account">MY ACCOUNT</string>
+    <string name="groups">GROUPS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="teams_of_service">TEAMS OF SERVICE</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="logout">LOGOUT</string>
+
+
+    <string name="message">Messages</string>
+    <string name="notifaction">Notifactions</string>
+    <string name="upload">Upload</string>
+    <string name="group">Groups</string>
+    <string name="homemenu">Home</string>
+
+</resources>
